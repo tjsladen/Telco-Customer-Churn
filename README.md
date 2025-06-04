@@ -9,6 +9,7 @@ To develop a machine learning model that effectively predicts customer churn and
 
     Telco_churn.html: Final business-style interactive report.
     churn_eda and churn_model: python code scripts outlining code used during exploratory data analysis and modelling.
+    Business_STyle_Telco_Churn_Report: jupyter notebook version of HTML file.
 
     Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
