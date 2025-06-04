@@ -56,3 +56,4 @@ To develop a machine learning model that effectively predicts customer churn and
  
  🔗 View the Project   
 [Download HTML](https://github.com/tjsladen/Telco-Customer-Churn/blob/578cdf949739061e7c7e870f9ccdaa9976ee76e9/Telco_churn.html) (599KB)
+[Jupyter notebook version](https://github.com/tjsladen/Telco-Customer-Churn/blob/25b85c5b796452fc8fc6173cb36a6f83e5472e30/Business_Style_Telco_Churn_Report.ipynb) (Can be previewed following link.)
