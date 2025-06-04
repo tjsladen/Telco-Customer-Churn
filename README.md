@@ -52,3 +52,6 @@ To develop a machine learning model that effectively predicts customer churn and
     Encourage adoption of tech support and online security add-ons to reduce churn risk.
 
     Focus retention campaigns on month-to-month contract holders, especially those using fiber optic internet.
+ 
+ 🔗 View the Project   
+[Project HTML Link]()
