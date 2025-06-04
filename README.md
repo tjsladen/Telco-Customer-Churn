@@ -4,11 +4,12 @@ This project presents a data-driven approach to predicting customer churn for a 
 🔍 Objective
 
 To develop a machine learning model that effectively predicts customer churn and provides business-oriented insights to support intervention efforts.
+
 📂 Project Structure
 
     Telco_churn.html: Final business-style interactive report.
 
-    Business_Style_Telco_Churn_Report.ipynb: Full annotated notebook used to generate the report.
+    Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 📊 Key Insights
 
