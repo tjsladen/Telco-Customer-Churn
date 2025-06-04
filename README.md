@@ -54,4 +54,4 @@ To develop a machine learning model that effectively predicts customer churn and
     Focus retention campaigns on month-to-month contract holders, especially those using fiber optic internet.
  
  🔗 View the Project   
-[Project HTML Link](https://github.com/tjsladen/Telco-Customer-Churn/blob/578cdf949739061e7c7e870f9ccdaa9976ee76e9/Telco_churn.html)
+[Download HTML](https://github.com/tjsladen/Telco-Customer-Churn/blob/578cdf949739061e7c7e870f9ccdaa9976ee76e9/Telco_churn.html) (599KB)
