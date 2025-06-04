@@ -28,7 +28,7 @@ To develop a machine learning model that effectively predicts customer churn and
     Targeting the top 30% most at-risk customers captures ~90% of churners, enabling focused retention strategies.
 
     SHAP Interpretability:
-    Features like TechSupport, OnlineSecurity, and Contract showed strong directional influence on churn. For instance, churn was highest among customers with no tech support and monthly contracts.
+    Features like Contract Type, Monthly Charges and Tenure showed strong directional influence on churn. For instance, churn was highest among customers with monthly contracts and high monthly charges.
 
 📈 Tools Used
 
