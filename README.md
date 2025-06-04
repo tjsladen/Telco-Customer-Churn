@@ -1,4 +1,4 @@
-Telco Customer Churn Prediction 📉📈
+# Telco Customer Churn Prediction 📉📈
 
 This project presents a data-driven approach to predicting customer churn for a fictional telecom company. Using real-world-style data, the analysis focuses on identifying high-risk customers and offering actionable insights to support customer retention strategies.
 🔍 Objective
