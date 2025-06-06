@@ -22,9 +22,11 @@ To develop a machine learning model that effectively predicts customer churn and
 
         AUC: 0.96
 
-        Cohen’s Kappa: 0.75
+        Cohen’s Kappa: 0.73
 
-        Optimal threshold: 0.6 to 0.7, balancing recall and precision.
+        Recall: 0.96
+
+        Optimal threshold: 0.6, balancing recall and precision.
 
     Cumulative Gains Insight:
     Targeting the top 30% most at-risk customers captures ~90% of churners, enabling focused retention strategies.
